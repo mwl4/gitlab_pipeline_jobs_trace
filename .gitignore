@@ -1,0 +1,3 @@
+.vscode/
+.secrets.json
+pipeline_trace_*.json
